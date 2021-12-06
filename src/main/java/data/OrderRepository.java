@@ -1,4 +1,4 @@
-package com.dci.java.data;
+package main.java.data;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
